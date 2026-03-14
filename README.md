@@ -1,5 +1,3 @@
-# splunk-bruteforce-detection-lab
-
 # Splunk Brute Force Detection Lab
 
 ## Objective
