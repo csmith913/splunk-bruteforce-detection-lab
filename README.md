@@ -1,4 +1,4 @@
-# Splunk Brute Force Detection Lab
+# Splunk Brute Force Detection Lab (in-progress)
 
 ## Objective
 Simulate a brute force attack on a Windows machine and detect it using Splunk SIEM and PowerShell automation.
